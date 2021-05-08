@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="gridBG">#a7bad1</color>
+    <color name="cellBG">#ebebeb</color>
+
+    <color name="count1">#009c03</color>
+    <color name="count2">#0629c7</color>
+    <color name="count3">#ab0303</color>
+</resources>

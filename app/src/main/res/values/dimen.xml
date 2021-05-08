@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="restartIconSize" >60dp</dimen>
+    <dimen name="headerElevation">8dp</dimen>
+    <dimen name="rvPaddings">8dp</dimen>
+    <dimen name="cellDimen">32dp</dimen>
+    <dimen name="cellMargin">2dp</dimen>
+</resources>

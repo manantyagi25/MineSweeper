@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="@dimen/cellDimen"
+    android:layout_height="@dimen/cellDimen"
+    android:layout_margin="@dimen/cellMargin"
+    android:background="@drawable/cell_bg_unrevealed"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/cellValue"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:textAlignment="center"
+        android:textSize="18sp" />
+
+</LinearLayout>
