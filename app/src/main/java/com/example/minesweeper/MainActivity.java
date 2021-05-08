@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity implements CellClickListener
     CountDownTimer countDownTimer;
 
     int size = 10;
-    int numberOfBombs = 5;
+    int numberOfBombs = 10;
     int elapsed;
     boolean timerStarted;
     boolean isGameOver;
