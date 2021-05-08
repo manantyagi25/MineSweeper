@@ -1,3 +1,5 @@
+<img src="Screenshots/logo.png?raw=true" New Game width="20%" /> 
+
 # MineSweeper
 
 Android version of the popular game Minesweeper.
