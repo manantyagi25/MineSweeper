@@ -1,11 +1,10 @@
 <img src="Screenshots/logo.png?raw=true" New Game width="20%" /> 
 
-# MineSweeper
+# MineSweeper <a href="APK/Minesweeper.apk" download>(View APK)</a>
 
 Android version of the popular game Minesweeper. 
 (Kindly note that different difficulty levels are not supported yet. This is only the first iteration of this game which was completed in one day.)
 
-<a href="APK/Minesweeper.apk" download>View APK</a>
 
 ## App Screenshots
 
