@@ -8,6 +8,7 @@ import androidx.recyclerview.widget.RecyclerView;
 import android.content.Context;
 import android.os.Bundle;
 import android.os.CountDownTimer;
+import android.os.Vibrator;
 import android.util.Log;
 import android.view.View;
 import android.view.ViewGroup;
@@ -38,6 +39,7 @@ public class MainActivity extends AppCompatActivity implements CellClickListener
     boolean timerStarted;
     boolean isGameOver;
     int maxTime = 999000;
+    int vibrateTime = 500;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -121,6 +123,8 @@ public class MainActivity extends AppCompatActivity implements CellClickListener
             statusTV.setText(context.getResources().getString(R.string.lost));
             statusTV.setTextColor(ContextCompat.getColor(context, R.color.count3));
             game.getMineField().showBombs();
+            Vibrator v = (Vibrator) getSystemService(Context.VIBRATOR_SERVICE);
+            v.vibrate(vibrateTime);
             isGameOver = true;
             countDownTimer.cancel();
         }
