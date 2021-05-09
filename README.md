@@ -2,7 +2,8 @@
 
 # MineSweeper
 
-Android version of the popular game Minesweeper.
+Android version of the popular game Minesweeper. 
+(Kindly note that different difficulty levels are not supported yet. This is only the first iteration of this game which was completed in one day.)
 
 ## App Screenshots
 
