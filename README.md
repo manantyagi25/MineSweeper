@@ -5,6 +5,8 @@
 Android version of the popular game Minesweeper. 
 (Kindly note that different difficulty levels are not supported yet. This is only the first iteration of this game which was completed in one day.)
 
+<a href="APK/Minesweeper.apk" download>Download APK</a>
+
 ## App Screenshots
 
   ### 1. Starting a new game
